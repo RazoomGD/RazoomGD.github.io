@@ -1,0 +1,13 @@
+{
+  "config": [
+    {
+      "comment": "test version",
+      "version": "0.1.343",
+      "userMessage": "Current version of <cy>Object Groups</c> (<cj>0.1.343</c>) is now marked as <cr>UNSAFE</c> because of the found severe bug. <cy>Please, update the mod</c> and <cy>restart the game!</c>\n(you can find more info about the problem in the changelog)",
+      "isUnsafe": true
+    }
+  ]
+}
+
+
+
